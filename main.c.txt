@@ -15,7 +15,7 @@ char name[255], last[255];
 
 
     //printf("Hello world! %s %s!\n", name, last);
-
+      printf("Hello my world! %s %s!\n", name, last);
    
  return 0;
 }
