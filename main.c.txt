@@ -14,7 +14,7 @@ char name[255], last[255];
     gets(last); /* buffer overflow? what's that? */
 
 
-    printf("Hello world! %s %s!\n", name, last);
+    //printf("Hello world! %s %s!\n", name, last);
 
    
  return 0;
